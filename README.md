@@ -1,5 +1,3 @@
-# index of my own repositories
-
 - [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST)
 - [raspberrypi-car](https://github.com/huoyijie/raspberrypi-car)
 - [GoChat](https://github.com/huoyijie/GoChat)
