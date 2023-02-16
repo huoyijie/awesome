@@ -1,7 +1,7 @@
 # My repositories
 
 ## Python
-- [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) (1.2K stars)
+- [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST) (1.2k stars)
 - [raspberrypi-car](https://github.com/huoyijie/raspberrypi-car) 
 
 ## Go
