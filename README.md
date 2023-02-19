@@ -7,6 +7,7 @@
 ## Go
 - [EFS](https://huoyijie.cn/efs/) (not yet open source)
 - [GoChat](https://github.com/huoyijie/GoChat)
+- [keynote](https://github.com/huoyijie/keynote)
 
 ## Node
 - [YijieGo](https://huoyijie.cn/article/98e27e7051ba11ecb154451bde618cf8/) (not yet open source)
@@ -24,3 +25,4 @@ About [UDPack 2.0](https://huoyijie.cn/article/399d47e0717311ed8812b9a35e7c2efa/
 - [my blogs](https://github.com/huoyijie/huoyijie.github.io)
 - [my profile](https://github.com/huoyijie/huoyijie)
 - [my resume](https://github.com/huoyijie/resume)
+- [this repository](https://github.com/huoyijie/awesome)
