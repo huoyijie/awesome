@@ -7,9 +7,12 @@
 
 ## Go
 - [EFS](https://huoyijie.cn/efs/) (not yet open source)
-- [GoChat](https://github.com/huoyijie/GoChat)
+- [Goal](https://github.com/huoyijie/Goal)
+- [GoalUI](https://github.com/huoyijie/GoalUI)
+- [GoalGenerator](https://github.com/huoyijie/GoalGenerator)
 - [keynote](https://github.com/huoyijie/keynote)
 - [gitcode](https://github.com/huoyijie/gitcode)
+- [GoChat](https://github.com/huoyijie/GoChat)
 
 ## Node
 - [YijieGo](https://huoyijie.cn/article/98e27e7051ba11ecb154451bde618cf8/) (not yet open source)
